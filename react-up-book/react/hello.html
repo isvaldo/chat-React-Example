@@ -11,8 +11,13 @@
         </div>
 
         <script src="build/react.js"></script>
+        <script src="build/react-dom.js"></script>
         <script>
-            // my app's code
+            ReactDOM.render(
+                React.DOM.h1({id:"my-heading" }, React.DOM.span(null,"hello"), "world"),
+                document.getElementById("app")
+                );
+                console.log(React.DOM);
         </script>
     </body>
     </html>
