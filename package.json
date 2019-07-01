@@ -1,0 +1,19 @@
+{
+  "name": "chat-react-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isvaldo/chat-React-Example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/isvaldo/chat-React-Example/issues"
+  },
+  "homepage": "https://github.com/isvaldo/chat-React-Example#readme"
+}
